@@ -11,10 +11,12 @@
     <title>$Title$</title>
   </head>
   <body>
+  <form method = "post" action = "dictionary.jsp">
   <div>
     <h1>Vietname dictionary</h1>
     <input type = "text" name = "input" size = "30" placeholder="Input text here"/>
     <input type = "submit" name = "submit" value = "Search"/>
   </div>
+  </form>
   </body>
 </html>
